@@ -1,2 +1,2 @@
-# React-intro-nav-bar-
+# React-intro-nav-bar
 Created a Navbar
